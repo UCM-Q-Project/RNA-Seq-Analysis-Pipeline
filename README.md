@@ -1,1 +1,1 @@
-# RNA-Seq-Analysis-Pipeline-rSAP-
+# RNA-Seq-Analysis-Pipeline (rSAP)
